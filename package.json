@@ -1,0 +1,11 @@
+{
+  "name": "aws-cicd-nodejs",
+  "version": "1.0.0",
+  "description": "AWS CI/CD Pipeline Deployment Project using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Vaibhav Thete",
+  "license": "ISC"
+}
