@@ -90,7 +90,7 @@ const server = http.createServer((req, res) => {
           </div>
 
           <div class="footer">
-              Built with ❤️ by <b>Vaibhav Thete</b>
+              Version 2 Auto Pipeline Trigger Success 🚀
           </div>
       </div>
   </body>
